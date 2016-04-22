@@ -1,0 +1,28 @@
+name: Papatone Marketing
+favicon: null
+layout_spectrum: 0.1196042001247406
+typography_spectrum: 0.5689754369668663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5570737416855991
+  lightness: 0.09024785296060145
+  saturation: 0.18908729776740074
+  rhythmicContrast: 0.26190052810125053
+purpose: []
