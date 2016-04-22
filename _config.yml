@@ -1,7 +1,7 @@
 name: Papatone Marketing
 favicon: null
-layout_spectrum: 0.1196042001247406
-typography_spectrum: 0.5689754369668663
+layout_spectrum: 1
+typography_spectrum: 0.75813
 title: papatone marketing
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5570737416855991
-  lightness: 0.09024785296060145
-  saturation: 0.18908729776740074
-  rhythmicContrast: 0.26190052810125053
+    - '#f8f6f2'
+    - '#000000'
+    - '#908a87'
+    - '#acb9c1'
+    - '#084b3b'
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
