@@ -1,6 +1,6 @@
 name: Papatone Marketing
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74815
 typography_spectrum: 0.75813
 title: papatone marketing
 cta:
@@ -23,7 +23,7 @@ color:
     - '#acb9c1'
     - '#084b3b'
   brandStrength: 1
-  lightness: 0.8125
-  saturation: 1
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
