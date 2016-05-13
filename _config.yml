@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
+  saturation: 0.7513993
   brandStrength: 1
-  rhythmicContrast: 0.5
+  lightness: 0.8675373
   brandColors:
     - '#f8f6f2'
     - '#000000'
     - '#908a87'
     - '#acb9c1'
     - '#084b3b'
-  lightness: 0.5
+  rhythmicContrast: 0.6609142
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Papatone Marketing
 favicon: null
+name: Papatone Marketing
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7150186
-layout_spectrum: 0.74815
+layout_spectrum: 1
